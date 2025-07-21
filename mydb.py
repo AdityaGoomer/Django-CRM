@@ -13,6 +13,6 @@ cursorObject=dataBase.cursor()
 
 
 # create database
-cursorObject.execute("CREATE DATABASE AddyCorp")
+# cursorObject.execute("CREATE DATABASE AddyCorp")
 
 print("all done")
